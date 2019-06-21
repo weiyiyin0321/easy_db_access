@@ -13,4 +13,9 @@ setup(name='db_access',
           'impyla',
           'pymysql'
       ],
+      classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        ],
       zip_safe=False)

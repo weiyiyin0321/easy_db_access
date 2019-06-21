@@ -7,7 +7,7 @@ Purpose of this simplify access process to different types of databases through 
 Copy the repo and run a 
 
 ```
-python setup.py install
+pip install db-access
 ```
 
 in the root directory of the repo.
